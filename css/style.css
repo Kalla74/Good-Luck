@@ -1,0 +1,14 @@
+
+body{
+    place-self: center;
+    display: grid;
+    grid-template-columns: 720px 500px ;
+    grid-template-rows: 324px;
+    background-image: url(/css/picture/950x534-blue-abstract-noise-free-website-background-image.jpg);
+}
+.gif{
+    height: 100%;
+    width: 100%;
+    border: 20px solid black;
+}
+
